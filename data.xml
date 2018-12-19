@@ -1,0 +1,91 @@
+<root>
+   <card>
+		<id>1</id>
+		<title>"About" screen</title>
+		<description>Design UI and displayed information for “About” screen</description>
+		<priority>Medium</priority>
+		<component>TAMobile</component>
+		<estimate>4</estimate>
+		<spent>4</spent>
+		<asignee>John</asignee>
+		<status>To Do</status>
+  </card>
+	<card>
+		<id>2</id>
+		<title>"New Order" function</title>
+		<description>Design UI and functional for all required steps to make a new order:-	Select Date and Location-	Book Car-	Enter Customer Information-	Confirm the new order
+    </description>
+		<priority>High</priority>
+		<component>TAMobile</component>
+		<estimate>32</estimate>
+		<spent>32</spent>
+		<asignee>John</asignee>
+		<status>To Do</status>
+  </card>
+  <card>
+    <id>3</id>
+    <title>"Order Details" function</title>
+    <description>Design UI and displayed information on "Order Details" screen</description>
+    <priority>High</priority>
+    <component>TAMobile</component>
+    <estimate>4</estimate>
+    <spent>4</spent>
+    <asignee>John</asignee>
+    <status>To Do</status>
+  </card>
+  <card>
+    <id>4</id>
+    <title>"View Orders" function</title>
+    <description>Design UI and functional for "View Orders" function (display the list of existing orders on screen) </description>
+    <priority>High</priority>
+    <component>TAMobile</component>
+    <estimate>8</estimate>
+    <spent>8</spent>
+    <asignee>John</asignee>
+    <status>To Do</status>
+  </card>
+  <card>
+    <id>5</id>
+    <title>"Car Details" function</title>
+    <description>Design UI and displayed information on "Car Details" screen</description>
+    <priority>High</priority>
+    <component>TAMobile</component>
+    <estimate>4</estimate>
+    <spent>4</spent>
+    <asignee>John</asignee>
+    <status>In progress</status>
+  </card>
+  <card>
+    <id>6</id>
+    <title>"View Cars" function</title>
+    <description>Design UI and functional for "View Cars" function (display the list of available cars on screen)</description>
+    <priority>High</priority>
+    <component>TAMobile</component>
+    <estimate>8</estimate>
+    <spent>8</spent>
+    <asignee>John</asignee>
+    <status>In progress</status>
+  </card>
+  <card>
+    <id>7</id>
+    <title>"Home" screen</title>
+    <description>Design UI and functional for "Home" screen after the login done</description>
+    <priority>High</priority>
+    <component>TAMobile</component>
+    <estimate>4</estimate>
+    <spent>4</spent>
+    <asignee>John</asignee>
+    <status>Done</status>
+  </card>
+  <card>
+    <id>8</id>
+    <title>“"Log in" and "Log out" functions</title>
+    <description>Design UI and functional for "Log in" and "Log out" functions</description>
+    <priority>High</priority>
+    <component>TAMobile</component>
+    <estimate>4</estimate>
+    <spent>4</spent>
+    <asignee>John</asignee>
+    <status>Done</status>
+  </card>
+</root>

@@ -1,0 +1,21 @@
+ body  {background: url("../images/bg.png")}
+
+.signin{width:340px;background-color: #fff;border:1px solid #ccc;box-shadow: 0 0 1em #CCC;border-radius: 4px 4px 4px 4px;position:absolute;top: 50%;left: 50%;margin-top:-109px;margin-left:-171px;}
+.error{color:red;}
+#header { height: 85px; background: url(../images/bg-header.png) repeat-x left top; border-top-left-radius:4px; border-top-right-radius:4px;}
+#header .container {position: relative;}
+#header .logo { position: absolute; top: 0px; left:0px; background: url(../images/logo.png) no-repeat left top; width: 241px; height: 85px; }
+img.active {  border: 1px solid #CCCCCC;cursor: pointer}
+/* Form */
+.form {padding: 0px;margin: 0px 10px; font-size:14px;}
+.form.info{width:290px;}
+.form .label {width: 140px;}
+.form .label.required span {color:red}
+.form .input {width:180px;padding: 5px 0px;}
+.form input {width:170px;}
+.form tr.hidden {display:none}
+.form tr td {height:22px;border-bottom:1px solid #eee;}
+.form tr td.error {border-bottom:none;}
+
+.form .button {border: none;text-align:center; padding: 10px 0px;}
+.form .button input {background-color:#047; border:none; color:#fff; width:100px; height:30px;float:right;}
